@@ -1,4 +1,7 @@
-### Hi there 👋
+- Sou Bacharel em Administração de empresas, pós-graduado em Gestão de pessoas
+- Trabalho no mercado financeiro
+- Desenvolvo aplicações desktop em csharp winforms
+- Contato: strauzenbberg@outlook.com
 
 <!--
 **Strauzenbberg/strauzenbberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

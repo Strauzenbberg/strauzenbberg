@@ -1,6 +1,7 @@
-- Sou Bacharel em Administração de empresas, pós-graduado em Gestão de pessoas
+- Bacharel em Administração de empresas
+- MBa Executivo em Gestão de pessoas
 - Trabalho no mercado financeiro
-- Desenvolvo aplicações desktop em csharp winforms
+- Desenvolvo aplicações desktop em csharp 
 - Contato: strauzenbberg@outlook.com
 
 <!--

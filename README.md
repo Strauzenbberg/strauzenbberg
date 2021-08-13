@@ -1,5 +1,5 @@
 - Bacharel em Administração de empresas
-- MBa Executivo em Gestão de pessoas
+- MBA Executivo em Gestão de pessoas
 - Trabalho no mercado financeiro
 - Desenvolvo aplicações desktop em csharp 
 - Contato: strauzenbberg@outlook.com

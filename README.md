@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 - Enjoy it!! o/
 
 
+[![strauzenbberg GitHub stats](https://github-readme-stats.vercel.app/api?username=strauzenbberg)](https://github.com/strauzenbberg/github-readme-stats)
+

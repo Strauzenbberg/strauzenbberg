@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Snake animation](https://github.com/strauzenbberg/strauzenbberg/blob/output/github-contribution-grid-snake.svg)]
+![Snake animation](https://github.com/strauzenbberg/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/strauzenbberg/blob/output/github-contribution-grid-snake.svg)]
 -->
 
 # Welcome!
@@ -51,11 +54,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
  
-![Snake animation](strauzenbberg)
+
 ![Snake animation](https://github.com/strauzenbberg/strauzenbberg/blob/output/github-contribution-grid-snake.svg)
-[![Snake animation](https://github.com/strauzenbberg/strauzenbberg/blob/output/github-contribution-grid-snake.svg)]
-![Snake animation](https://github.com/strauzenbberg/blob/output/github-contribution-grid-snake.svg)
-[![Snake animation](https://github.com/strauzenbberg/blob/output/github-contribution-grid-snake.svg)]
+
 
 
 

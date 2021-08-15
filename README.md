@@ -35,8 +35,13 @@ Here are some ideas to get you started:
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
-
-
 [![strauzenbberg GitHub stats](https://github-readme-stats.vercel.app/api?username=strauzenbberg)](https://github.com/strauzenbberg/github-readme-stats)
+
+<a href="https://www.instagram.com/strauzenbberg" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME">
+</a>
+<a href="https://www.facebook.com/strauzenbberg" alt="Facebook" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/strauzenbberg">
+</a>
+
 

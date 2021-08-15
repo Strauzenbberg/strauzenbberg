@@ -20,7 +20,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
+# Welcome!
 
+ 
+
+## I'm Strauzenbberg!
+
+ 
+
+:computer: I'm 
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;"> Developer!
+
+:house_with_garden: I’m from Brazil.
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
 
 

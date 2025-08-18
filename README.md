@@ -2,7 +2,7 @@
 - Bacharel em Administração de empresas
 - MBA Executivo em Gestão de pessoas
 - Atuo no mercado financeiro
-- Desenvolvo aplicações desktop em csharp 
+- Desenvolvo aplicações for web 
 - Contato: strauzenbberg@outlook.com
 
 
@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
  
 
-:computer: I'm 
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;"> Developer!
+:computer: I'm Javascript Developer!
 
 :house_with_garden: I’m from Brazil.
 

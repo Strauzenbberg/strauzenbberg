@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![Snake animation](https://github.com/strauzenbberg/strauzenbberg/blob/output/github-contribution-grid-snake.svg)]
 ![Snake animation](https://github.com/strauzenbberg/blob/output/github-contribution-grid-snake.svg)
 [![Snake animation](https://github.com/strauzenbberg/blob/output/github-contribution-grid-snake.svg)]
+// [![strauzenbberg GitHub stats](https://github-readme-stats.vercel.app/api?username=strauzenbberg)](https://github.com/strauzenbberg/github-readme-stats)
 -->
 
 # Welcome!
@@ -37,7 +38,6 @@ Here are some ideas to get you started:
 
 - Thanks for visiting.
 
-// [![strauzenbberg GitHub stats](https://github-readme-stats.vercel.app/api?username=strauzenbberg)](https://github.com/strauzenbberg/github-readme-stats)
 
 
 <a href="https://www.facebook.com/strauzenbberg" alt="Facebook" target="_blank">

@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - Thanks for visiting.
 
-[![strauzenbberg GitHub stats](https://github-readme-stats.vercel.app/api?username=strauzenbberg)](https://github.com/strauzenbberg/github-readme-stats)
+// [![strauzenbberg GitHub stats](https://github-readme-stats.vercel.app/api?username=strauzenbberg)](https://github.com/strauzenbberg/github-readme-stats)
 
 
 <a href="https://www.facebook.com/strauzenbberg" alt="Facebook" target="_blank">

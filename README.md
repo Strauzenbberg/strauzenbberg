@@ -25,13 +25,7 @@ Thanks for visiting.
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/strauzenbberg)
 [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white)](https://www.instagram.com/strauzenbberg)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:strauzenbberg@outlook.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/strauzenbberg)
-
----
-
-### 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=strauzenbberg&theme=flat&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Strauzenbberg)
 
 ---
 

@@ -31,7 +31,7 @@ Thanks for visiting.
 
 ### 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=strauzenbberg)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=strauzenbberg&theme=flat&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 

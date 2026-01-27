@@ -6,4 +6,4 @@
 
 ---
 
-📬 **[Contato](mailto:strauzenbberg@outlook.com)**
+📬 **[Contact](mailto:strauzenbberg@outlook.com)**

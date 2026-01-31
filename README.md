@@ -1,6 +1,6 @@
 # 💎 Strauzenbberg
 
-### 🔥 Linguagens do meu GitHub
+## 🧠 Linguagens do meu GitHub
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Strauzenbberg&layout=compact&langs_count=8)
 

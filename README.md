@@ -8,7 +8,13 @@
 ---
 ## 📊 Status & Badges ![Visitor Count](https://komarev.com/ghpvc/?username=Strauzenbberg&color=blue) ![GitHub followers](https://img.shields.io/github/followers/Strauzenbberg?style=social) ![GitHub stars](https://img.shields.io/github/stars/Strauzenbberg?style=social)
 ---
-📬 **[Contact](mailto:strauzenbberg@outlook.com)**
+## 🌐 Contato & Redes
+
+<p align="left">
+  <a href="https://instagram.com/strauzenbberg"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="25" height="25" alt="Instagram"/></a>
+  <a href="https://www.strauz.vercel.app"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chrome.svg" width="25" height="25" alt="Website"/></a>
+  <a href="mailto:strauzenbberg@outlook.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" width="25" height="25" alt="Email"/></a>
+</p>
 ---
 > "Code is like humor. When you have to explain it, it’s bad."
 

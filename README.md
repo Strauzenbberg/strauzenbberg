@@ -1,7 +1,7 @@
 # 💎 Strauzenbberg
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25" /> JavaScript Programmer
----
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" height="25"/> &nbsp; JavaScript Programmer
+ ---
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Strauzenbberg&theme=github_dark)
 ---
 ![snake animation](https://github.com/Strauzenbberg/Strauzenbberg/blob/output/github-contribution-grid-snake.svg)

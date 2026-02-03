@@ -33,7 +33,7 @@
 
 ## 🚀 Projeto Atual
 
-<a href="https://www.strauz.vercel.app">
+<a href="https://strauz.vercel.app">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
 </a>
 

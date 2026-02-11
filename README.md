@@ -31,7 +31,7 @@
 
 <br/>
 
-## 🚀 Projeto Atual
+## 🚀 Projetos Atuais
 
 <a href="https://strauz.vercel.app">
   <img src="https://img.shields.io/badge/Strauz%20Tools-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Strauz Tools"/>

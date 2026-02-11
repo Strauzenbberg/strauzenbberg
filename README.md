@@ -31,9 +31,20 @@
 
 <br/>
 
-## 🚀 Projetos Atuais
+## 🚀 Projeto Atual
 
-<a href="https://strauz.vercel.app"> <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Strauz Tools"/> </a> <a href="https://strauz.vercel.app/dev"> <img src="https://img.shields.io/badge/Dev-000000?style=for-the-badge&logo=code&logoColor=white" alt="Dev"/> </a> <a href="https://strauz.vercel.app/ai"> <img src="https://img.shields.io/badge/SOTA%20AI-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="SOTA AI"/> </a> <br/><br/>
+<a href="https://strauz.vercel.app">
+  <img src="https://img.shields.io/badge/Strauz%20Tools-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Strauz Tools"/>
+</a>
+<a href="https://strauz.vercel.app/dev">
+  <img src="https://img.shields.io/badge/Dev%20Tools-000000?style=for-the-badge&logo=code&logoColor=white" alt="Dev Tools"/>
+</a>
+<a href="https://strauz.vercel.app/ai">
+  <img src="https://img.shields.io/badge/Ranking%20AI-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="Ranking AI"/>
+</a>
+
+<br/><br/>
+
 
 <br/><br/>
 

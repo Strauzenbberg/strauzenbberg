@@ -39,9 +39,6 @@
 <a href="https://strauz.vercel.app/dev">
   <img src="https://img.shields.io/badge/Dev%20Tools-000000?style=for-the-badge&logo=code&logoColor=white" alt="Dev Tools"/>
 </a>
-<a href="https://strauz.vercel.app/ai">
-  <img src="https://img.shields.io/badge/Ranking%20AI-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="Ranking AI"/>
-</a>
 
 <br/><br/>
 

@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Strauzenbberg&theme=github_dark" alt="Profile Details" />
+//  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Strauzenbberg&theme=github_dark" alt="Profile Details" />
 
 <br/>
 
